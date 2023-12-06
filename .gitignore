@@ -1,2 +1,2 @@
 /Iac/.terraform*
-/IaC/terraform.tfvars
+.terraform.tfvars
