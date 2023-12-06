@@ -1,2 +1,2 @@
 /Iac/.terraform*
-.terraform.tfvars
+.DS_Store
